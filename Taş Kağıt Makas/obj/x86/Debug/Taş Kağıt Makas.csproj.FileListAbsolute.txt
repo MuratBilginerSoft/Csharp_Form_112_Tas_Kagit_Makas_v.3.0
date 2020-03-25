@@ -1,0 +1,51 @@
+C:\Users\murat\Desktop\ \3 C#\Taş Kağıt Makas\Taş Kağıt Makas\bin\Debug\Taş Kağıt Makas.exe
+C:\Users\murat\Desktop\ \3 C#\Taş Kağıt Makas\Taş Kağıt Makas\bin\Debug\Taş Kağıt Makas.pdb
+C:\Users\murat\Desktop\ \3 C#\Taş Kağıt Makas\Taş Kağıt Makas\obj\x86\Debug\Taş_Kağıt_Makas.Form1.resources
+C:\Users\murat\Desktop\ \3 C#\Taş Kağıt Makas\Taş Kağıt Makas\obj\x86\Debug\Taş_Kağıt_Makas.Properties.Resources.resources
+C:\Users\murat\Desktop\ \3 C#\Taş Kağıt Makas\Taş Kağıt Makas\obj\x86\Debug\Taş Kağıt Makas.csproj.GenerateResource.Cache
+C:\Users\murat\Desktop\ \3 C#\Taş Kağıt Makas\Taş Kağıt Makas\obj\x86\Debug\Taş Kağıt Makas.exe
+C:\Users\murat\Desktop\ \3 C#\Taş Kağıt Makas\Taş Kağıt Makas\obj\x86\Debug\Taş Kağıt Makas.pdb
+C:\Users\murat\Desktop\ \Taş Kağıt Makas\Taş Kağıt Makas\obj\x86\Debug\Taş Kağıt Makas.exe
+C:\Users\murat\Desktop\ \Taş Kağıt Makas\Taş Kağıt Makas\obj\x86\Debug\Taş Kağıt Makas.pdb
+C:\Users\murat\Desktop\ \Taş Kağıt Makas\Taş Kağıt Makas\obj\x86\Debug\Taş_Kağıt_Makas.Form1.resources
+C:\Users\murat\Desktop\ \Taş Kağıt Makas\Taş Kağıt Makas\obj\x86\Debug\Taş_Kağıt_Makas.Properties.Resources.resources
+C:\Users\murat\Desktop\ \Taş Kağıt Makas\Taş Kağıt Makas\obj\x86\Debug\Taş Kağıt Makas.csproj.GenerateResource.Cache
+C:\Users\murat\Desktop\ \Taş Kağıt Makas\Taş Kağıt Makas\bin\Debug\Taş Kağıt Makas.exe
+C:\Users\murat\Desktop\ \Taş Kağıt Makas\Taş Kağıt Makas\bin\Debug\Taş Kağıt Makas.pdb
+F:\DESKTOP\7 BLOG VERİLERİ\NCFKR PROGRAMLAMA ÜSSÜ\C# ÖĞRENME GÜNLÜĞÜ\C# GÖRSEL PROGRAMLAMA\3 C# TAŞ KAĞIT MAKAS OYUNU\Taş Kağıt Makas v2.0\Taş Kağıt Makas\obj\x86\Debug\Taş Kağıt Makas.exe
+F:\DESKTOP\7 BLOG VERİLERİ\NCFKR PROGRAMLAMA ÜSSÜ\C# ÖĞRENME GÜNLÜĞÜ\C# GÖRSEL PROGRAMLAMA\3 C# TAŞ KAĞIT MAKAS OYUNU\Taş Kağıt Makas v2.0\Taş Kağıt Makas\obj\x86\Debug\Taş Kağıt Makas.pdb
+M:\4.2.2013\DESKTOP\7 BLOG VERİLERİ\NCFKR PROGRAMLAMA ÜSSÜ\C# ÖĞRENME GÜNLÜĞÜ\C# GÖRSEL PROGRAMLAMA\3 C# TAŞ KAĞIT MAKAS OYUNU\Taş Kağıt Makas v2.0\Taş Kağıt Makas\obj\x86\Debug\Taş Kağıt Makas.exe
+M:\4.2.2013\DESKTOP\7 BLOG VERİLERİ\NCFKR PROGRAMLAMA ÜSSÜ\C# ÖĞRENME GÜNLÜĞÜ\C# GÖRSEL PROGRAMLAMA\3 C# TAŞ KAĞIT MAKAS OYUNU\Taş Kağıt Makas v2.0\Taş Kağıt Makas\obj\x86\Debug\Taş Kağıt Makas.pdb
+M:\4.2.2013\DESKTOP\7 BLOG VERİLERİ\NCFKR PROGRAMLAMA ÜSSÜ\C# ÖĞRENME GÜNLÜĞÜ\C# GÖRSEL PROGRAMLAMA\3 C# TAŞ KAĞIT MAKAS OYUNU\Taş Kağıt Makas v2.0\Taş Kağıt Makas\bin\Debug\Taş Kağıt Makas.exe
+M:\4.2.2013\DESKTOP\7 BLOG VERİLERİ\NCFKR PROGRAMLAMA ÜSSÜ\C# ÖĞRENME GÜNLÜĞÜ\C# GÖRSEL PROGRAMLAMA\3 C# TAŞ KAĞIT MAKAS OYUNU\Taş Kağıt Makas v2.0\Taş Kağıt Makas\bin\Debug\Taş Kağıt Makas.pdb
+M:\4.2.2013\DESKTOP\7 BLOG VERİLERİ\NCFKR PROGRAMLAMA ÜSSÜ\C# ÖĞRENME GÜNLÜĞÜ\C# GÖRSEL PROGRAMLAMA\3 C# TAŞ KAĞIT MAKAS OYUNU\Taş Kağıt Makas v2.0\Taş Kağıt Makas\obj\x86\Debug\Taş_Kağıt_Makas.Form1.resources
+M:\4.2.2013\DESKTOP\7 BLOG VERİLERİ\NCFKR PROGRAMLAMA ÜSSÜ\C# ÖĞRENME GÜNLÜĞÜ\C# GÖRSEL PROGRAMLAMA\3 C# TAŞ KAĞIT MAKAS OYUNU\Taş Kağıt Makas v2.0\Taş Kağıt Makas\obj\x86\Debug\Taş_Kağıt_Makas.Properties.Resources.resources
+M:\4.2.2013\DESKTOP\7 BLOG VERİLERİ\NCFKR PROGRAMLAMA ÜSSÜ\C# ÖĞRENME GÜNLÜĞÜ\C# GÖRSEL PROGRAMLAMA\3 C# TAŞ KAĞIT MAKAS OYUNU\Taş Kağıt Makas v2.0\Taş Kağıt Makas\obj\x86\Debug\Taş Kağıt Makas.csproj.GenerateResource.Cache
+M:\YEDEK\5 BLOG\2 NCFKR PROGRAMLAMA ÜSSÜ\1 C# ÖĞRENME GÜNLÜĞÜ\C# GÖRSEL PROGRAMLAMA\3 C# TAŞ KAĞIT MAKAS OYUNU\Taş Kağıt Makas v2.0\Taş Kağıt Makas\obj\x86\Debug\Taş Kağıt Makas.exe
+M:\YEDEK\5 BLOG\2 NCFKR PROGRAMLAMA ÜSSÜ\1 C# ÖĞRENME GÜNLÜĞÜ\C# GÖRSEL PROGRAMLAMA\3 C# TAŞ KAĞIT MAKAS OYUNU\Taş Kağıt Makas v2.0\Taş Kağıt Makas\obj\x86\Debug\Taş Kağıt Makas.pdb
+M:\YEDEK\5 BLOG\2 NCFKR PROGRAMLAMA ÜSSÜ\1 C# ÖĞRENME GÜNLÜĞÜ\C# GÖRSEL PROGRAMLAMA\3 C# TAŞ KAĞIT MAKAS OYUNU\Taş Kağıt Makas v2.0\Taş Kağıt Makas\bin\Debug\Taş Kağıt Makas.exe
+M:\YEDEK\5 BLOG\2 NCFKR PROGRAMLAMA ÜSSÜ\1 C# ÖĞRENME GÜNLÜĞÜ\C# GÖRSEL PROGRAMLAMA\3 C# TAŞ KAĞIT MAKAS OYUNU\Taş Kağıt Makas v2.0\Taş Kağıt Makas\bin\Debug\Taş Kağıt Makas.pdb
+M:\YEDEK\5 BLOG\2 NCFKR PROGRAMLAMA ÜSSÜ\1 C# ÖĞRENME GÜNLÜĞÜ\C# GÖRSEL PROGRAMLAMA\3 C# TAŞ KAĞIT MAKAS OYUNU\Taş Kağıt Makas v2.0\Taş Kağıt Makas\obj\x86\Debug\Taş_Kağıt_Makas.Form1.resources
+M:\YEDEK\5 BLOG\2 NCFKR PROGRAMLAMA ÜSSÜ\1 C# ÖĞRENME GÜNLÜĞÜ\C# GÖRSEL PROGRAMLAMA\3 C# TAŞ KAĞIT MAKAS OYUNU\Taş Kağıt Makas v2.0\Taş Kağıt Makas\obj\x86\Debug\Taş_Kağıt_Makas.Properties.Resources.resources
+M:\YEDEK\5 BLOG\2 NCFKR PROGRAMLAMA ÜSSÜ\1 C# ÖĞRENME GÜNLÜĞÜ\C# GÖRSEL PROGRAMLAMA\3 C# TAŞ KAĞIT MAKAS OYUNU\Taş Kağıt Makas v2.0\Taş Kağıt Makas\obj\x86\Debug\Taş Kağıt Makas.csproj.GenerateResource.Cache
+M:\NCFKR\5 BLOG\2 NCFKR PROGRAMLAMA ÜSSÜ\1 C# ÖĞRENME GÜNLÜĞÜ\C# GÖRSEL PROGRAMLAMA\3 C# TAŞ KAĞIT MAKAS OYUNU\Taş Kağıt Makas v2.0\Taş Kağıt Makas\obj\x86\Debug\Taş Kağıt Makas.exe
+M:\NCFKR\5 BLOG\2 NCFKR PROGRAMLAMA ÜSSÜ\1 C# ÖĞRENME GÜNLÜĞÜ\C# GÖRSEL PROGRAMLAMA\3 C# TAŞ KAĞIT MAKAS OYUNU\Taş Kağıt Makas v2.0\Taş Kağıt Makas\obj\x86\Debug\Taş Kağıt Makas.pdb
+M:\NCFKR\5 BLOG\2 NCFKR PROGRAMLAMA ÜSSÜ\1 C# ÖĞRENME GÜNLÜĞÜ\C# GÖRSEL PROGRAMLAMA\3 C# TAŞ KAĞIT MAKAS OYUNU\Taş Kağıt Makas v2.0\Taş Kağıt Makas\bin\Debug\Taş Kağıt Makas.exe
+M:\NCFKR\5 BLOG\2 NCFKR PROGRAMLAMA ÜSSÜ\1 C# ÖĞRENME GÜNLÜĞÜ\C# GÖRSEL PROGRAMLAMA\3 C# TAŞ KAĞIT MAKAS OYUNU\Taş Kağıt Makas v2.0\Taş Kağıt Makas\bin\Debug\Taş Kağıt Makas.pdb
+M:\NCFKR\5 BLOG\2 NCFKR PROGRAMLAMA ÜSSÜ\1 C# ÖĞRENME GÜNLÜĞÜ\C# GÖRSEL PROGRAMLAMA\3 C# TAŞ KAĞIT MAKAS OYUNU\Taş Kağıt Makas v2.0\Taş Kağıt Makas\obj\x86\Debug\Taş_Kağıt_Makas.Form1.resources
+M:\NCFKR\5 BLOG\2 NCFKR PROGRAMLAMA ÜSSÜ\1 C# ÖĞRENME GÜNLÜĞÜ\C# GÖRSEL PROGRAMLAMA\3 C# TAŞ KAĞIT MAKAS OYUNU\Taş Kağıt Makas v2.0\Taş Kağıt Makas\obj\x86\Debug\Taş_Kağıt_Makas.Properties.Resources.resources
+M:\NCFKR\5 BLOG\2 NCFKR PROGRAMLAMA ÜSSÜ\1 C# ÖĞRENME GÜNLÜĞÜ\C# GÖRSEL PROGRAMLAMA\3 C# TAŞ KAĞIT MAKAS OYUNU\Taş Kağıt Makas v2.0\Taş Kağıt Makas\obj\x86\Debug\Taş Kağıt Makas.csproj.GenerateResource.Cache
+F:\x\3 NCFKR\2 BLOG\2 GÖRÜNÜM\2 PROGRAMLAMA DİLLERİ\3 C# PROGRAMLAMA\2 C# GÖRSEL PROGRAMLAMA\3 C# Görsel Programlama 3 Taş Kâğıt Makas Oyunu\PROGRAM\Taş Kağıt Makas v2.0\Taş Kağıt Makas\obj\x86\Debug\Taş Kağıt Makas.exe
+F:\x\3 NCFKR\2 BLOG\2 GÖRÜNÜM\2 PROGRAMLAMA DİLLERİ\3 C# PROGRAMLAMA\2 C# GÖRSEL PROGRAMLAMA\3 C# Görsel Programlama 3 Taş Kâğıt Makas Oyunu\PROGRAM\Taş Kağıt Makas v2.0\Taş Kağıt Makas\obj\x86\Debug\Taş Kağıt Makas.pdb
+F:\x\3 NCFKR\2 BLOG\2 GÖRÜNÜM\2 PROGRAMLAMA DİLLERİ\3 C# PROGRAMLAMA\2 C# GÖRSEL PROGRAMLAMA\3 C# Görsel Programlama 3 Taş Kâğıt Makas Oyunu\PROGRAM\Taş Kağıt Makas v2.0\Taş Kağıt Makas\bin\Debug\Taş Kağıt Makas.exe
+F:\x\3 NCFKR\2 BLOG\2 GÖRÜNÜM\2 PROGRAMLAMA DİLLERİ\3 C# PROGRAMLAMA\2 C# GÖRSEL PROGRAMLAMA\3 C# Görsel Programlama 3 Taş Kâğıt Makas Oyunu\PROGRAM\Taş Kağıt Makas v2.0\Taş Kağıt Makas\bin\Debug\Taş Kağıt Makas.pdb
+F:\x\3 NCFKR\2 BLOG\2 GÖRÜNÜM\2 PROGRAMLAMA DİLLERİ\3 C# PROGRAMLAMA\2 C# GÖRSEL PROGRAMLAMA\3 C# Görsel Programlama 3 Taş Kâğıt Makas Oyunu\PROGRAM\Taş Kağıt Makas v2.0\Taş Kağıt Makas\obj\x86\Debug\Taş_Kağıt_Makas.Form1.resources
+F:\x\3 NCFKR\2 BLOG\2 GÖRÜNÜM\2 PROGRAMLAMA DİLLERİ\3 C# PROGRAMLAMA\2 C# GÖRSEL PROGRAMLAMA\3 C# Görsel Programlama 3 Taş Kâğıt Makas Oyunu\PROGRAM\Taş Kağıt Makas v2.0\Taş Kağıt Makas\obj\x86\Debug\Taş_Kağıt_Makas.Properties.Resources.resources
+F:\x\3 NCFKR\2 BLOG\2 GÖRÜNÜM\2 PROGRAMLAMA DİLLERİ\3 C# PROGRAMLAMA\2 C# GÖRSEL PROGRAMLAMA\3 C# Görsel Programlama 3 Taş Kâğıt Makas Oyunu\PROGRAM\Taş Kağıt Makas v2.0\Taş Kağıt Makas\obj\x86\Debug\Taş Kağıt Makas.csproj.GenerateResource.Cache
+E:\04 - Yazılım\04 - Form Projeleri\100 Taş Kağıt Makas v2.0\Taş Kağıt Makas\obj\x86\Debug\Taş Kağıt Makas.exe
+E:\04 - Yazılım\04 - Form Projeleri\100 Taş Kağıt Makas v2.0\Taş Kağıt Makas\obj\x86\Debug\Taş Kağıt Makas.pdb
+E:\04 - Yazılım\04 - Form Projeleri\100 Taş Kağıt Makas v2.0\Taş Kağıt Makas\bin\Debug\Taş Kağıt Makas.exe
+E:\04 - Yazılım\04 - Form Projeleri\100 Taş Kağıt Makas v2.0\Taş Kağıt Makas\bin\Debug\Taş Kağıt Makas.pdb
+E:\04 - Yazılım\04 - Form Projeleri\100 Taş Kağıt Makas v2.0\Taş Kağıt Makas\obj\x86\Debug\Taş_Kağıt_Makas.Form1.resources
+E:\04 - Yazılım\04 - Form Projeleri\100 Taş Kağıt Makas v2.0\Taş Kağıt Makas\obj\x86\Debug\Taş_Kağıt_Makas.Properties.Resources.resources
+E:\04 - Yazılım\04 - Form Projeleri\100 Taş Kağıt Makas v2.0\Taş Kağıt Makas\obj\x86\Debug\Taş Kağıt Makas.csproj.GenerateResource.Cache
